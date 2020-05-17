@@ -21,6 +21,7 @@
                         <br>
 
                         <button @click="getUser">THIS IS A HOT FIX</button>
+                        <button @click="getUser">Task 6</button>
                         <hr>
                         <template v-if="user">
                             Привет
