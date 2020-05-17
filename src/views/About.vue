@@ -1,7 +1,7 @@
 <template>
     <div class="about">
         <h1>Task 1</h1>
-
+        Task 3
         <span v-text="user.name"></span><br>
         <span v-text="user.email"></span><br>
         <span v-text="user.balance"></span><br>
