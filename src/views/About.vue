@@ -5,6 +5,7 @@
         <span v-text="user.name"></span><br>
         <span v-text="user.email"></span><br>
         <span v-text="user.balance"></span><br>
+        Task 2
     </div>
 </template>
 
