@@ -7,6 +7,8 @@
 
                     <div class="card-body">
                         <input type="text" v-model="email">
+                        BUG IS HERE
+                        <button @click="login">Login</button>
 
                         <button @click="login">Task 3</button>
                         <br>
