@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-        <h1>This is a user page</h1>
+        <h1>Task 1</h1>
 
         <span v-text="user.name"></span><br>
         <span v-text="user.email"></span><br>
