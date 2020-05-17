@@ -7,8 +7,10 @@
 
                     <div class="card-body">
                         <input type="text" v-model="email">
-                        BUG IS HERE
+                        BUG FIX IS HERE
                         <button @click="login">Login</button>
+
+                        <button @click="login">Task 3</button>
                         <br>
                         <button @click="register">Register</button>
                         <br>
@@ -18,7 +20,7 @@
                         <button @click="verifyEmail">Verify Email</button>
                         <br>
 
-                        <button @click="getUser">Task 1</button>
+                        <button @click="getUser">THIS IS A HOT FIX</button>
                         <hr>
                         <template v-if="user">
                             Привет
