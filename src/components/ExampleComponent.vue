@@ -19,7 +19,6 @@
                         <br>
                         <button @click="verifyEmail">Verify Email</button>
                         <br>
-
                         <button @click="getUser">THIS IS A HOT FIX</button>
                         <button @click="getUser">Task 6</button>
                         <hr>
