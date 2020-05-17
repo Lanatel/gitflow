@@ -18,7 +18,7 @@
                         <button @click="verifyEmail">Verify Email</button>
                         <br>
 
-                        <button @click="getUser">Task 1</button>
+                        <button @click="getUser">Task 5</button>
                         <hr>
                         <template v-if="user">
                             Привет
